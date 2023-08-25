@@ -14,7 +14,7 @@
     "date-fns": "^2.16.1",
     "diff": "^4.0.2",
     "fal": "^0.1.1",
-    "gatsby": "^4.20.0",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^3.8.0",
     "gatsby-plugin-emotion": "^6.8.0",
     "gatsby-plugin-gatsby-cloud": "^4.20.0",
